@@ -32,7 +32,3 @@ npm start
 ```
 
 ---
-
-## References
-
-[AWS Japan, builders.flash: 日常で楽しむクラウドテクノロジー](https://aws.amazon.com/jp/builders-flash/202004/crowd-amplify-rekognition/?utm_source=pocket_mylist&awsf.filter-name=*all)
